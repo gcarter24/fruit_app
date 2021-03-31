@@ -1,0 +1,6 @@
+{
+  id: @fruit.id,
+  name: @fruit.name,
+  tastiness: @fruit.tastiness,
+  color: @fruit.color,
+}
