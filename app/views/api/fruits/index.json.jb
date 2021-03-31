@@ -1,0 +1,8 @@
+@fruits.map do |fruit|
+  {
+    id: fruit.id,
+    name: fruit.name,
+    tastiness: fruit.tastiness,
+    color: fruit.color,
+  }
+end
